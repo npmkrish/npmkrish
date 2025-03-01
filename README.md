@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kapoorkrish191@gmail.com**
 
-- 📄 My experiences [Worked as Backend developer in SIH'24 runner-up team.](Worked as Backend developer in SIH'24 runner-up team.)
+- 📄 My experiences [Worked as Backend developer in SIH'24 runner-up team.]
 
 - ⚡ Fun fact **I think i am funny😉**
 
