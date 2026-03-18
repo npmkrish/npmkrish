@@ -54,4 +54,4 @@ I'm a passionate developer who loves solving real-world problems with code. From
 
 ---
 
-> “Code like it's a rebellion. Deploy like it's art.” — Me, after fixing a bug at 2 AM 😅
+> FUN FACT : "I think, I am funny" (Lame Joke ik) 😅
