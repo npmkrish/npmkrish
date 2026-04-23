@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Wassup baddies </h1>
 
 ###
 
-<p align="left">My name is Krish Kapoor and I'm a full stack software dev, from New Delhi, India</p>
+<p align="left">Krish Kapoor here, a full stack software dev, from New Delhi, India</p>
 
 ###
 
