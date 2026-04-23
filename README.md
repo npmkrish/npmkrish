@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Coding for fun <br> Passionate about doing great things <br> Can build anything </p>
+<p align="left"> Coding for fun <br> Can build anything <br>  Passionate about doing great things </p>
 
 ###
 
