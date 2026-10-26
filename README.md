@@ -1,3 +1,3 @@
-21 . engineer . ML
-open to work & build.
-Send an email : work.krish931541@gmail.com DM me on Twitter : https://x.com/npmkrrish
+21 . engineer . ML <br>
+open to work & build. <br>
+Send an email : work.krish931541@gmail.com <br> DM me on Twitter : https://x.com/npmkrrish
