@@ -1,6 +1,3 @@
-New Delhi based Software Developer,
-Expertise in Javascript, Typescript, Kotlin, 
-Devops tools, Unity Engine, Unity 3D, Blender,
-Passionate about ML, Neural Networks, LLMs, RAGs,
-Can build anything.
- 
+21 . engineer . ML
+open to work & build.
+Send an email : work.krish931541@gmail.com DM me on Twitter : https://x.com/npmkrrish
